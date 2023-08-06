@@ -1,0 +1,14 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Node version": "node --version"
+  },
+
+// Preview button configuration
+  "preview": {
+        "IntroCS API": "https://ecpyfac.ecornell.com/docs/introcs/"
+  },
+  "autogradeTestScripts": [".guides/secure/grader.py"]
+}
